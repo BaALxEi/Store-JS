@@ -11,5 +11,19 @@
         "url": "https://raw.githubusercontent.com/bcmdy/JsHook-Script-Repo/master/Scripts/Unity Dump/Frida.js",
         "desc": "Unity Dump 内存dump 获得基于Unity3d的游戏相关代码",
         "down_count": 999
+    },
+    {
+        "author": "BaALッ",
+        "markdown": "https://github.com/BaALxEi/Store-JS/blob/main/armod.md",
+        "ctime": "2023/8/6 21:37:28",
+        "source": "https://github.com/BaALxEi/Store-JS/blob/main/armod.js",
+        "id": "dump_dex",
+        "title": "dump_dex",
+        "type": "Frida",
+        "version": "1.0",
+        "url": "https://github.com/BaALxEi/Store-JS/blob/main/armod.js",
+        "desc": "Unlock Config"
+                "Disable Ads",
+        "down_count": 69
     }
 ]
