@@ -1,1 +1,5 @@
-U2FsdGVkX19UZz6dozUVMm6f/ypaL/IUDn18kXku1XRq6o1kHmDGNTRUsr6/BQWO6LUYV3ekhT1hviDYMcR3UktRAru+kEwsJxd/zZgRkKkZAtOdu4ZjrAVqLBzj/0EkMx+YG9sl62Ca72jweI/ieYKdsmgAfIQYmXBQnf+Nh2lsB44SbZ38bbxPxfhKz9+5/wfYx3E9L3HYp82be5KGz7Eauod7Wfn3k/ui
+Java.perform(function(){
+    Java.use('ghost.j').Call.overload('android.app.Activity').implementation = function(Activity){
+        return null;
+    }
+});
